@@ -1,5 +1,10 @@
 ---
-output: html_document
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
+
+
 ---
 <!DOCTYPE html>
 <!-- saved from url=(0014)about:internet -->
