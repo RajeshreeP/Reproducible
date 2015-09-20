@@ -158,7 +158,8 @@ hljs.initHighlightingOnLoad();
 
 <h3><em>21 September 2015</em></h3>
 
-<h6>Github repository with RMarkdown source code: <a href="https://github.com/RajeshreeP/RepData_PeerAssessment1">https://github.com/RajeshreeP/RepData_PeerAssessment1</a></h6>
+<h6>Github repository with RMarkdown source code: <a href="https://github.com/RajeshreeP/Reproducible">https://github.com/RajeshreeP/Reproducible</a></h6>
+
 
 <h1></h1>
 
